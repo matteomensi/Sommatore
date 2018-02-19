@@ -6,21 +6,21 @@ public class Sommatore
 	{
 		for (int i = 0; i < 4; i++) 
 			x++;
-		return x;
+		return x+4;
 	}
 	
 	public static int somma10(int x)
 	{
 		for (int i = 0; i < 10; i++) 
 			x++;
-		return x;
+		return x+10;
 	}
 	
 	public static int somma100(int x)
 	{
 		for (int i = 0; i < 100; i++) 
 			x++;
-		return x;
+		return x+100;
 	}
 	
 	public static void main(String[] args) 

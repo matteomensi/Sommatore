@@ -21,6 +21,7 @@ public class Sommatore
 		for (int i = 0; i < 100; i++) 
 			x++;
 		return x+100;
+<<<<<<< HEAD
 	}
 	
 	public static int somma200(int x)
@@ -28,6 +29,8 @@ public class Sommatore
 		for (int i = 0; i < 200; i++) 
 			x++;
 		return x+200;
+=======
+>>>>>>> opti
 	}
 	
 	public static void main(String[] args) 
